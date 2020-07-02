@@ -5,7 +5,7 @@
 A Deno module to make getting Gravatar profiles extremely easy!
 
 ```javascript
-import { getGravatarHash, getGravatarUrl } from "https://raw.githubusercontent.com/aniketgargya/gravatar-utils/master/mod.ts";
+import { getGravatarHash, getGravatarUrl } from "https://deno.land/x/gravatar_utils/mod.ts";
 
 const userEmail = "xxxxxxxx@xxxxx.xxx";
 
