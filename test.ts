@@ -6,7 +6,7 @@ Deno.test(
   () => {
     assertEquals(
       getGravatarHash("gargya.aniket@gmail.com"),
-      "5d4fc7c2997c7869b3a855fa01cb6d4",
+      "15d4fc7c2997c7869b3a855fa01cb6d4",
     );
   },
 );
