@@ -1,11 +1,8 @@
 # Gravatar Utils
-
-[![Build Status](https://travis-ci.com/aniketgargya/gravatar-utils.svg?branch=master)](https://travis-ci.com/aniketgargya/gravatar-utils)
-
-A Deno module to make getting Gravatar profiles extremely easy!
+Node and Deno modules to make getting Gravatar profiles extremely easy!
 
 ```javascript
-import { getGravatarHash, getGravatarUrl } from "https://deno.land/x/gravatar_utils/mod.ts";
+import { getGravatarHash, getGravatarUrl } from "gravatar-utils";
 
 const userEmail = "xxxxxxxx@xxxxx.xxx";
 
